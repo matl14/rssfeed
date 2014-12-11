@@ -1,0 +1,20 @@
+{
+"name": "matl14/rssfeed",
+"type": "library",
+"description": "Simple Pie rss wrapper",
+"keywords": ["rss"],
+"homepage": "https://github.com/matl14/rssfeed",
+"license": "MIT",
+"authors": [
+{
+"name": "Mariana",
+"role": "Developer"
+}
+],
+"require": {
+"php": ">=5.4"
+},
+"autoload": {
+"psr-4": { "matl14\\": "src/" }
+}
+}
