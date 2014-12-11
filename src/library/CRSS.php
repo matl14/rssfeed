@@ -1,5 +1,5 @@
 <?php
-namespace Dave14\library;
+namespace matl14\library;
 class CRSS
 {
 private $feed;
