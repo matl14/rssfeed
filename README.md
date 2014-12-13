@@ -1,3 +1,8 @@
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/matl14/rssfeed/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/matl14/rssfeed/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/matl14/rssfeed/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/matl14/rssfeed/?branch=master)
+[![Build Status](https://travis-ci.org/matl14/rssfeed.svg?branch=master)](https://travis-ci.org/matl14/rssfeed)
+
+
 RSS wrapper
 ==========
 This repository is an RSS-wrapper around SimplePie, which is used to display RSS-feeds. The main focus of this repo is using the module with Anax-MVC,  https://github.com/mosbth/Anax-MVC.
